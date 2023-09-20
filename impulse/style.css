@@ -210,6 +210,7 @@ section .section-content img{
     flex-wrap: wrap;
     /* flex-direction: row;  */
     text-align: justify;
+    text-justify: inter-word;
     padding: 50px 5px; 
     line-height: 40px;
     background-color: #0B2447;
