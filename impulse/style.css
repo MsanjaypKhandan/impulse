@@ -209,6 +209,7 @@ section .section-content img{
     /* display: flex;
     flex-wrap: wrap;
     /* flex-direction: row;  */
+    text-align: justify;
     padding: 50px 5px; 
     line-height: 40px;
     background-color: #0B2447;
