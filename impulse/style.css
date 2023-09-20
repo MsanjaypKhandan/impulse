@@ -173,7 +173,7 @@ section .section-content img{
         font-weight: bold;
     }
     nav a{
-        font-size: 30px;
+        font-size: 18px;
         color: whitesmoke;
     }
     a.active,a:hover{
@@ -386,8 +386,12 @@ footer{
     display: flex;
     flex-direction: column;
 }
+
 footer .contact, .follow-us{
      flex: 1;
+}
+footer .foot-sec .ficons{
+  gap:space between;
 }
 footer .foot-sec a{
     text-decoration: none;
