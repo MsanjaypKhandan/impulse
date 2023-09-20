@@ -21,7 +21,7 @@ h2{
     margin-bottom: 2px solid tomato;
 }
 h3{
-  text-align:center;
+  text-align: center;
 }
 h2::after{
     margin: 0 auto;
