@@ -391,7 +391,7 @@ footer .contact, .follow-us{
      flex: 1;
 }
 footer .foot-sec .ficons{
-  gap:space between;
+  gap: 5px;
 }
 footer .foot-sec a{
     text-decoration: none;
