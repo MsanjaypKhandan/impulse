@@ -390,8 +390,9 @@ footer{
 footer .contact, .follow-us{
      flex: 1;
 }
-footer .foot-sec .ficons{
+footer .ficons{
   margin-right:5px;
+  color: black;
 }
 footer .foot-sec a{
     text-decoration: none;
